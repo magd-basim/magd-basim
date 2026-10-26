@@ -1,6 +1,6 @@
 # Hi, I'm Magd Basim 👋
 
-### Junior Backend Developer | Python,C# | REST APIs | Database-Driven Applications
+### Backend Developer | Python, C#, Django, REST APIs, PostgreSQL, FastAPI | Hands-on Experience Building Business Systems Across Different Technologies & Environments | IT Infrastructure
 
 I'm an Information Technology Engineering graduate and Junior Backend Developer with hands-on experience taking software projects from development through delivery to clients. I have taken primary responsibility for the implementation of most of my software projects, building practical business applications and translating client requirements into working solutions.
 
